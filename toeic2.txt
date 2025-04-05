@@ -67,7 +67,7 @@ warehouse,倉庫
 refund,返金(する)
 advise,勧める、忠告する、助言する
 immediately,すぐに、即座に
-council,議長
+council,議会
 broadcast,放送(する)
 responsible,担当している、責任がある
 avoid,避ける
